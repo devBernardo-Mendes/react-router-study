@@ -1,10 +1,10 @@
 import React from "react";
 import './Content.css'
 
-const Menu = props => (
-    <main className="Menu">
-        
+const Content = props => (
+    <main className="Content">
+        components Content
     </main>
 )
 
-export default Menu
+export default Content
