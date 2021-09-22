@@ -6,7 +6,7 @@ const Menu = props => (
         <nav>
             <ul>
                 <li>
-                    <Link to="/home">Início</Link>
+                    <Link to="/">Início</Link>
                 </li>
                 <li>
                     <Link to="/param/legal">Param #01</Link>
@@ -16,6 +16,9 @@ const Menu = props => (
                 </li>
                 <li>
                     <Link to="/about">Sobre</Link>
+                </li>
+                <li>
+                    <Link to="/naoexiste">Nao existe</Link>
                 </li>
             </ul>
         </nav>
