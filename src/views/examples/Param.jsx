@@ -11,6 +11,4 @@ const Param = props => {
     )
 }
 
-
-
 export default Param
